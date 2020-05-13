@@ -35,7 +35,9 @@ def find_a(letter)
   end 
 end 
 
-
+def sum_array(add)
+  
+end 
 
 
 
