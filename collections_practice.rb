@@ -24,7 +24,7 @@ end
 
 def kesha_maker(singer)
   new_singer = []
-  singer.each do |pop|
-    new_singer << pop[3]
+  singer.each do |slizerd|
+    new_singer << slizerd[3] = "$"
   end 
 end 
