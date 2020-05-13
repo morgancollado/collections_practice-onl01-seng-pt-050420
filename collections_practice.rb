@@ -40,6 +40,9 @@ def sum_array(add)
 end 
 
 def add_s(cool)
-  cool.collect {|e| e + "s"}
+  cool.collect do |word|
+    if index = 2
+      
+    else 
 end 
 
