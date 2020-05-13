@@ -45,6 +45,6 @@ def add_s(cool)
       word
     else word + "s"
   end
-end 
+ end 
 end 
 
