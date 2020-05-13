@@ -28,3 +28,7 @@ def kesha_maker(singer)
     new_singer << slizerd[2] = "$"
   end 
 end 
+
+def find_a(letter)
+  
+end 
