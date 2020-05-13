@@ -30,8 +30,9 @@ def kesha_maker(singer)
 end 
 
 def find_a(letter)
+  letter_a = []
   letter.find do |let|
-    start_with("a")
+    letter_a << start_with("a")
   end 
 end 
 
