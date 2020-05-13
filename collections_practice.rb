@@ -43,7 +43,7 @@ def add_s(cool)
   cool.collect do |word|
     if word = cool[1]
       word
-    else word = 
+    else word != cool[1]
       word + "s"
   end
  end 
