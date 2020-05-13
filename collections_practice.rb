@@ -39,5 +39,7 @@ def sum_array(add)
   add.sum
 end 
 
-
+def add_s(cool)
+  
+end 
 
