@@ -43,7 +43,6 @@ def add_s(cool)
   cool.collect do |word|
     if index = 2
       
-      
     else word + "s"
 end 
 
