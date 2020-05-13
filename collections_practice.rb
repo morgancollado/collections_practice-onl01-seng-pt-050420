@@ -1,1 +1,30 @@
+def sort_array_asc(things)
+  things.sort
+end 
 
+def sort_array_desc(stuff)
+  stuff.sort.reverse
+end 
+
+def sort_array_char_count(char)
+  char.sort_by {|leg| leg.length}
+end 
+
+def swap_elements(arr)
+  first_var = arr[1]
+  second_var = arr[2]
+  arr[1] = second_var
+  arr[2] = first_var
+  arr
+end 
+
+def reverse_array(num)
+  num.reverse
+end 
+
+def kesha_maker(singer)
+  new_singer = []
+  singer.each do |pop|
+    new_singer << my_string.insert 3, "$"
+  end 
+end 
