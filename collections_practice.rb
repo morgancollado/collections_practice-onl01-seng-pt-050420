@@ -25,6 +25,6 @@ end
 def kesha_maker(singer)
   new_singer = []
   singer.each do |pop|
-    new_singer << my_string.insert 3, "$"
+    new_singer << pop[3]
   end 
 end 
