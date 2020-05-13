@@ -44,5 +44,6 @@ def add_s(cool)
     if index[2]
       
     else word + "s"
+  end 
 end 
 
