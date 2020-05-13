@@ -40,6 +40,6 @@ def sum_array(add)
 end 
 
 def add_s(cool)
-  [1,2].each_with_index.collect{|element, index| }
+  cool.collect {|e| e + "s"}
 end 
 
