@@ -40,6 +40,7 @@ def sum_array(add)
 end 
 
 def add_s(cool)
+  if index[1]
   cool.collect {|e| e + "s"}
 end 
 
