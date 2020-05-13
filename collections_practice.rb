@@ -31,7 +31,7 @@ end
 
 def find_a(letter)
   letter.select do |let|
-    let.start_with("a")
+    let.start_with?("a")
   end 
 end 
 
