@@ -30,5 +30,10 @@ def kesha_maker(singer)
 end 
 
 def find_a(letter)
-  letter.start_with?("a")
+  letter.start_with?("a").map
 end 
+
+
+
+
+
